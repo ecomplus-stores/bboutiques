@@ -1,12 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "",
+    "link": "/promotion",
+    "background": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Primeira Compra com 5% OFF"
+        "title": "Primeira compra | Use o Cupom BB15 e ganhe 15% OFF e Frete Grátis*"
       }
     ],
     "phone_wpp": false,

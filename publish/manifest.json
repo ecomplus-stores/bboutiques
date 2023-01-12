@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d4eca4ace073d37c8b554e18b4a8b7cd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a8cb5b94c743c158ca6299d78264345e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.2cf26a2d356e6302a38592865cbd57bc.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "BBoutiques",
+  "short_name": "BBoutiques",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Este aqui é somente um Teste",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

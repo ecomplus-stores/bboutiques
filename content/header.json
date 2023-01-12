@@ -1,23 +1,24 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Cashback | receba 15% de volta para a próxima compra",
     "link": "",
-    "background": "#000000",
-    "color": "#ffffff"
+    "background": "#deaa1b",
+    "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Primeira compra | Use o Cupom BB15 e ganhe 15% OFF e Frete Grátis*"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/blazer?blazer",
+      "/vestidos?Vestido",
+      "/calca?Calça",
+      "/saia?Saia"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": true,
   "search_input": true,

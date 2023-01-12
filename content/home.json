@@ -31,9 +31,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "63bf69404834634f7331d3b5:categories:Blazer:/blazer",
       "sort": "sales",
-      "title": "",
+      "title": "Este é um Teste",
       "headless": true,
       "limit": 12,
       "page": 4

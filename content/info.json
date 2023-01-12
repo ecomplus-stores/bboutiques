@@ -1,18 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Nas compras acima de R$299,90",
+    "title": "Frete Grátis"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "No seu cartão de crédito",
+    "title": "10x Sem Juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Prazo de 30 dias",
+    "title": "Primeira Troca Grátis"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Receba 10% de bônus para próxima compra.",
+    "title": "Cashback"
   }
 }
